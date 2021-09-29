@@ -1,0 +1,6 @@
+<?php
+
+$confguracion=[
+    "user"=>'',
+    "password"=>''
+];
