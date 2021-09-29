@@ -5,13 +5,12 @@ git rm o reset - limpia el working tree
 gti log - muestra los cambios del repositorio
 git push - sube los cambios al servidor
 git pull - descarga los cambios que estan en el servidor
-
-para ver manana
 git checkout 
 git branch
 git cherrypicking
-git stash
 git merge
+git stash
+
 
 Saludos Mario aquí esta un ejercicio que se usa seguido para obtener reportes, logs o guardar en csv. intenta hacerlo y si no lo hacemos juntos.
 
